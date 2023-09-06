@@ -4,7 +4,7 @@
         <title>Feeta App Update Feed</title>
         <item>
             <title>Version 2.0.1</title>
-            <description></description>
+            <description>Minor bug fixes and improvements</description>
             <enclosure url="https://play.google.com/store/apps/details?id=com.lattice.feeta" sparkle:version="2.0.1" sparkle:os="android" />
         </item>
     </channel>
