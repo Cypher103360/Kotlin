@@ -7,12 +7,6 @@
             <description>Minor bug fixes and improvements</description>
             <enclosure url="https://play.google.com/store/apps/details?id=com.lattice.feeta" sparkle:version="1.0.1" sparkle:os="android" />
         </item>
-
-        <item>
-            <title>Version 1.0.2</title>
-            <description>Minor bug fixes and improvements</description>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.lattice.feeta" sparkle:version="1.0.2" sparkle:os="android" />
-        </item>
         
     </channel>
 </rss>
